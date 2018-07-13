@@ -19,6 +19,8 @@ for(var i=0;i<squares.length;i++){
 	squares[i].addEventListener("click", function(){
 		if(this.style.backgroundColor === pickedColor){
 			alert("Correct")
+		}else{
+			this.style.backgroundColor = "#232323";
 		}
 	})
 }
