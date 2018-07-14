@@ -11,7 +11,7 @@ Guess the color of the mentioned RGB which ranges from (0, 0, 0) to (255, 255, 2
 
 ## Technologies Used
 
-**HTML** - markup language for creating web pages and web applications
-**CSS** - used for describing the presentation of a document written in a markup language
-**JAVASCRIPT** - client side scripting language for web pages
-**HEROKU** - cloud platform as a service used as a web application deployment model
+* **HTML** - markup language for creating web pages and web applications
+* **CSS** - used for describing the presentation of a document written in a markup language
+* **JAVASCRIPT** - client side scripting language for web pages
+* **HEROKU** - cloud platform as a service used as a web application deployment model
