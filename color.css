@@ -18,5 +18,14 @@ body{
 
 h1{
 	color:white;
-	
+
+}
+
+
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+	padding-top: 1%;
+	color: black;
 }
