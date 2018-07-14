@@ -22,3 +22,5 @@ Guess the color of the mentioned RGB which ranges from (0, 0, 0) to (255, 255, 2
 ## Easy Mode
 ![Easy Mode](/images/easy.png)
 
+## Wrong Guess
+![Try Again Page](/images/try again.png)
