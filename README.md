@@ -24,3 +24,6 @@ Guess the color of the mentioned RGB which ranges from (0, 0, 0) to (255, 255, 2
 
 ## Wrong Guess
 ![Try Again Page](/images/tryagain.png)
+
+## Winning page
+![Win Page](/images/win.png)
