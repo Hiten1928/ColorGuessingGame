@@ -29,3 +29,7 @@ h1{
 	padding-top: 1%;
 	color: black;
 }
+
+.selected{
+	background: blue;
+}

@@ -5,6 +5,17 @@ var colorDisplay = document.getElementById("colorDisplay");
 var message = document.querySelector("#message");
 var h1 = document.querySelector("h1");
 var resetButton = document.querySelector("#reset");
+var easyBtn = document.querySelector("#easybtn");
+var hardBtn = document.querySelector("#hardbtn");
+
+easyBtn.addEventListener("click",function(){
+this.classList.add("selected");
+});
+
+hardBtn.addEventListener("click",function(){
+
+});
+
 
 resetButton.addEventListener("click", function(){
 	//generate random color
@@ -18,7 +29,7 @@ resetButton.addEventListener("click", function(){
 		squares[i].style.backgroundColor = colors[i];
 	}
 	h1.style.backgroundColor = "#232323";
-})
+});
 
 colorDisplay.textContent = pickedColor;
 
